@@ -1,0 +1,1 @@
+Test data for **Total-Current-Driven Triboelectric Sensor**, along with deep learning and plotting code.
